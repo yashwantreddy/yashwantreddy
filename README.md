@@ -3,11 +3,11 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Data Scientist, and Teacher!!
+## I'm a Husband, Data Scientist, and Mentor!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects, Get better at NLP
-- ⚡ Fun fact: I love to play games
+- ⚡ Fun fact: I love to play video games! I have invested 12,000+ hours into a single video game called ***Dota 2***
 
 ### Connect with me:
 
